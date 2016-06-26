@@ -1,0 +1,17 @@
+{
+  "region" : "H",
+  "current_annual_savings_af" : "6,635 AF",
+  "current_annual_savings_mg" : "2,162 MG",
+  "participating_utilities" : "34",
+  "savings_vs_last_year" : "890 AF",
+  "water_loss_reduction" : "2,427 AF",
+  "total_savings_cost" : "2,134 AF",
+  "outdoor_water_ordinance" : "1,427 AF",
+  "pct_average_region_savings" : 12,
+  "pct_city_humble_savings" : 4,
+  "pct_city_houston_savings" : 32,
+  "pct_average_utility_achieve" : 55,
+  "pct_houston_achieve" : 72,
+  "pct_humble_achieve" : 61,
+  "pct_hunters_creek_achieve" : 58
+}

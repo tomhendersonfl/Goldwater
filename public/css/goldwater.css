@@ -1,0 +1,64 @@
+.bootgrid-table th {
+    font-size: 125%;
+}
+.site-title {
+  font-size: 225%;
+  text-align: center;
+  width: 500px;
+  color: #C8C8C8;
+  font-weight: bold;
+}
+#header {
+  height:75px;
+}
+.main-menu > li > a > img {
+    position: absolute;
+    left: 12px;
+    top: 6px;
+    font-size: 20px;
+    text-align: center;
+}
+#goldwater-logo {
+    margin-bottom: 0px;
+}
+#dashboard-title {
+    font-size: 200%;
+    text-align: left;
+    width: 500px;
+    color: #6F6F6F;
+    font-weight: bold;
+}
+#graph-title-1 {
+  font-size: 150%;
+}
+#graph-title-2 {
+  font-size: 125%;
+  margin: 10px 0px 0px 15px;
+}
+.white-text {
+  color:white;
+}
+.sub-menu-indent {
+  padding-left: 10px;
+}
+.custom-box-1 {
+  width: 100%;
+  height: 100px;
+  background-color: purple;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.custom-box-2 {
+  width: 100%;
+  height: 100px;
+  background-color: green;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-top: 10px;
+}
+.profile-menu > a {
+    background: url(../images/trump-wall.png) no-repeat left top;
+    background-size: 100%;
+}

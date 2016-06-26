@@ -1,0 +1,17 @@
+{
+  "city" : "League City",
+  "current_annual_savings_af" : "51.4 AF",
+  "current_annual_savings_mg" : "16.8 MG",
+  "participating_utilities" : "34",
+  "savings_vs_last_year" : "7.8 MG",
+  "meter_replacement" : "8.4 MG",
+  "savewater_program" : "7.86 MG",
+  "rain_barrel_rebate" : "0.5 MG",
+  "pct_average_city_savings" : 33,
+  "pct_city_texas_savings" : 4,
+  "pct_city_league_savings" : 100,
+  "pct_average_utility_achieve" : 80,
+  "pct_houston_achieve" : 72,
+  "pct_humble_achieve" : 61,
+  "pct_hunters_creek_achieve" : 58
+}

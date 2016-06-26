@@ -1,0 +1,16 @@
+{
+  "current_annual_savings_af" : "19,905 AF",
+  "current_annual_savings_mg" : "6,487 MG",
+  "participating_utilities" : "871",
+  "savings_vs_last_year" : "3,652 AF",
+  "total_savings_af" : "159,240",
+  "total_savings_cost" : "$24,456,799",
+  "customers_with_decreases" : "1,253,965",
+  "pct_average_region_savings" : 18,
+  "pct_region_a_savings" : 4,
+  "pct_region_c_savings" : 32,
+  "pct_average_utility_achieve" : 20,
+  "pct_dallas_achieve" : 18,
+  "pct_austin_achieve" : 24,
+  "pct_houston_achieve" : 9
+}
